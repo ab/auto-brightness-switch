@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, BrightnessToggle!</string>
-    <string name="app_name">Brightness Toggle</string>
+    <string name="toast_on">Auto brightness ON</string>
+    <string name="toast_off">Auto brightness OFF</string>
+    <string name="app_name">AutoBright Switch</string>
 </resources>
