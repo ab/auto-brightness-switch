@@ -1,0 +1,9 @@
+Android Asset Studio: Launcher Icon Generator
+https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=image&foreground.space.trim=1&foreground.space.pad=0.15&foreColor=09d%2C100&crop=0&backgroundShape=circle&backColor=333%2C100&effects=none
+
+Device Art Generator
+http://developer.android.com/distribute/tools/promote/device-art.html
+
+Feature Graphic Generator
+http://www.norio.be/android-feature-graphic-generator/
+

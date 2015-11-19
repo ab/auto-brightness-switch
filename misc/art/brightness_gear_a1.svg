@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   fill="#000000"
+   height="48"
+   viewBox="0 0 24 24"
+   width="48"
+   id="svg3386"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="brightness_gear_a1.svg"
+   inkscape:export-filename="/home/andy/code/android/projects/Auto-Brightness-Switch/icon/path3390.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960">
+  <metadata
+     id="metadata3396">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3394" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1407"
+     id="namedview3392"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="31.371491"
+     inkscape:cy="20.573284"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3419" />
+  </sodipodi:namedview>
+  <path
+     d="M0 0h24v24H0z"
+     fill="none"
+     id="path3388" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:Roboto;font-stretch:normal;font-variant:normal;"
+     x="11"
+     y="12.5"
+     id="text3421"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3423"
+       x="11"
+       y="12.5"></tspan></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <path
+       style="display:inline"
+       d="m 24,5.9550781 -4.908203,4.9101559 -8.183594,0 0,8.181641 L 6,23.955078 l 4.908203,4.910156 0,8.181641 8.183594,0 L 24,41.955078 l 4.908203,-4.908203 8.183594,0 0,-8.181641 L 42,23.955078 l -4.908203,-4.908203 0,-8.181641 -8.183594,0 L 24,5.9550781 Z m 0,8.1816409 c 4.79472,-0.109964 9.236684,3.797569 9.740234,8.566406 0.699382,4.668582 -2.482742,9.501207 -7.048828,10.699219 -0.85733,0.0632 -3.038752,1.103744 -2.691406,-0.44336 l 0,-6.246093 -3.271484,0 -1.328125,3.740234 -2.080079,0 5.566407,-14.580078 1.113281,0 0,-1.736328 z m 0,3.679687 -2.675781,7.25586 2.675781,0 0,-7.25586 z"
+       id="path3390"
+       inkscape:connector-curvature="0"
+       transform="scale(0.5,0.5)" />
+    <path
+       style="display:inline;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 24 15.873047 L 24 17.816406 L 26.685547 25.072266 L 24 25.072266 L 24 26.712891 L 27.300781 26.712891 L 28.628906 30.453125 L 30.679688 30.453125 L 25.123047 15.873047 L 24 15.873047 z "
+       id="use4290"
+       transform="scale(0.5,0.5)" />
+  </g>
+</svg>
