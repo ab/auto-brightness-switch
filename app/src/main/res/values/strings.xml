@@ -3,4 +3,5 @@
     <string name="toast_on">Auto brightness ON</string>
     <string name="toast_off">Auto brightness OFF</string>
     <string name="app_name">AutoBright Switch</string>
+    <string name="need_perms">Modify system settings needed to change brightness</string>
 </resources>
