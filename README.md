@@ -17,12 +17,11 @@ Patches and translations are welcome.
 
 License
 -------
-Copyright &copy; 2011 Andy Brody
+Copyright &copy; 2011-2023 Andy Brody
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+the Free Software Foundation, using version 3 of the license.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
