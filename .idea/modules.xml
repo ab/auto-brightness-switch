@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Auto-Brightness-Switch.iml" filepath="$PROJECT_DIR$/Auto-Brightness-Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Auto-Brightness-Switch.app.unitTest.iml" />
     </modules>
   </component>
 </project>

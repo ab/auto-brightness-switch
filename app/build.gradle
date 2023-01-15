@@ -37,6 +37,7 @@ android {
             versionNameSuffix '-DEBUG'
         }
     }
+    namespace 'com.abrody.brightness'
 }
 
 dependencies {
